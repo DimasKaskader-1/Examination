@@ -1,0 +1,11 @@
+C:\Users\HOME\source\repos\ExamMultithread\ExamMultithread\bin\Debug\netcoreapp2.1\ExamMultithread.deps.json
+C:\Users\HOME\source\repos\ExamMultithread\ExamMultithread\bin\Debug\netcoreapp2.1\ExamMultithread.runtimeconfig.json
+C:\Users\HOME\source\repos\ExamMultithread\ExamMultithread\bin\Debug\netcoreapp2.1\ExamMultithread.runtimeconfig.dev.json
+C:\Users\HOME\source\repos\ExamMultithread\ExamMultithread\bin\Debug\netcoreapp2.1\ExamMultithread.dll
+C:\Users\HOME\source\repos\ExamMultithread\ExamMultithread\bin\Debug\netcoreapp2.1\ExamMultithread.pdb
+C:\Users\HOME\source\repos\ExamMultithread\ExamMultithread\obj\Debug\netcoreapp2.1\ExamMultithread.csprojAssemblyReference.cache
+C:\Users\HOME\source\repos\ExamMultithread\ExamMultithread\obj\Debug\netcoreapp2.1\ExamMultithread.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\ExamMultithread\ExamMultithread\obj\Debug\netcoreapp2.1\ExamMultithread.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\ExamMultithread\ExamMultithread\obj\Debug\netcoreapp2.1\ExamMultithread.AssemblyInfo.cs
+C:\Users\HOME\source\repos\ExamMultithread\ExamMultithread\obj\Debug\netcoreapp2.1\ExamMultithread.dll
+C:\Users\HOME\source\repos\ExamMultithread\ExamMultithread\obj\Debug\netcoreapp2.1\ExamMultithread.pdb
