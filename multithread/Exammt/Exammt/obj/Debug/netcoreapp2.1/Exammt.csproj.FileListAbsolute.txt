@@ -1,0 +1,11 @@
+C:\Users\HOME\source\repos\Exammt\Exammt\obj\Debug\netcoreapp2.1\Exammt.csprojAssemblyReference.cache
+C:\Users\HOME\source\repos\Exammt\Exammt\obj\Debug\netcoreapp2.1\Exammt.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\Exammt\Exammt\obj\Debug\netcoreapp2.1\Exammt.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\Exammt\Exammt\obj\Debug\netcoreapp2.1\Exammt.AssemblyInfo.cs
+C:\Users\HOME\source\repos\Exammt\Exammt\bin\Debug\netcoreapp2.1\Exammt.deps.json
+C:\Users\HOME\source\repos\Exammt\Exammt\bin\Debug\netcoreapp2.1\Exammt.runtimeconfig.json
+C:\Users\HOME\source\repos\Exammt\Exammt\bin\Debug\netcoreapp2.1\Exammt.runtimeconfig.dev.json
+C:\Users\HOME\source\repos\Exammt\Exammt\bin\Debug\netcoreapp2.1\Exammt.dll
+C:\Users\HOME\source\repos\Exammt\Exammt\bin\Debug\netcoreapp2.1\Exammt.pdb
+C:\Users\HOME\source\repos\Exammt\Exammt\obj\Debug\netcoreapp2.1\Exammt.dll
+C:\Users\HOME\source\repos\Exammt\Exammt\obj\Debug\netcoreapp2.1\Exammt.pdb
